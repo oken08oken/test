@@ -35,7 +35,7 @@ hiragana.forEach(char => {
 })
 
 hiragana.forEach(char => {
-    // gsapScrollChar(char)
+    gsapScrollChar(char)
 })
 
 // handleByScroll()

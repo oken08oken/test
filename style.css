@@ -37,10 +37,6 @@ footer {
 
 .hiragana-main-layout {
     display: grid;
-
-     li {
-        border: 2px solid #000;
-    }
 }
 
 .space-only-mobile {
