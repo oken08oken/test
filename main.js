@@ -71,7 +71,7 @@ function gsapScrollChar(char) {
     mm.add("(max-width: 599px)", () => {
         ScrollTrigger.create({
             trigger: char,
-            start: "top 60%",
+            start: "top 50%",
             onEnter: () => toggleCharContent(charId),
             onLeaveBack: () => toggleCharContent(charId)
         })

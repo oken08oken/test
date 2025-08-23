@@ -58,6 +58,7 @@ footer {
     grid-column: 2;
     display: grid;
     position: fixed;
+    top: 0;
 
     > article {
         grid-area: 1 / 1;
